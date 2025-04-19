@@ -119,3 +119,10 @@ foodchain/
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
+
+<img width="1493" alt="image" src="https://github.com/user-attachments/assets/cedd6b3c-11fb-4587-944e-89c4ff2e5f0d" />
+<img width="1493" alt="image" src="https://github.com/user-attachments/assets/e7d392c4-9c57-48a3-b1e2-a52f5dcefef7" />
+<img width="1491" alt="image" src="https://github.com/user-attachments/assets/078d8ebc-e6e5-490c-a7a3-e8e62282161b" />
+<img width="1488" alt="image" src="https://github.com/user-attachments/assets/ce9b42c0-6b6a-41c3-984f-01ca0a793cf2" />
+
+
