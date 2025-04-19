@@ -1,4 +1,4 @@
-# AccessLens 🌟
+# FoodChain 🌟
 
 A comprehensive solution designed to help people find and access food resources in their area, with a focus on making food pantries and assistance programs more accessible to those in need.
 
@@ -50,8 +50,8 @@ To bridge the gap between people experiencing food insecurity and the resources 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/AccessLens-2.git
-cd AccessLens-2
+git clone https://github.com/yourusername/FoodChain-2.git
+cd FoodChain-2
 ```
 
 2. Backend Setup
